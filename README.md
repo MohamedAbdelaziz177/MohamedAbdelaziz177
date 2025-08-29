@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning K8S & Microservices architecture <br>🎯 Goals: To be a brillinat Backend Developer</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning k8s, CI-CD & Microservices architecture <br>🎯 Goals: To be a brillinat Backend Developer</p>
 
 ###
 
