@@ -3,6 +3,7 @@
 </div>
 
 ###
+
 <p align="left">My name is Mohamed and I'm a Software Engineeer, from Egypt ✅ </p>
 
 ###
@@ -15,9 +16,7 @@
 
 ###
 
-<h4>Feel free to connect!</h4>
-
-###
+<h2>Feel free to connect!</h2>
 
 ###
   <a href="https://www.linkedin.com/in/mohamed-abdelaziz-1abb56232/" target="_blank">
@@ -31,7 +30,6 @@
   </a>
 ###
 
-###
 
 <h2 align="left">I code with</h2>
 
