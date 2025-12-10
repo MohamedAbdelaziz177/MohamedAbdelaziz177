@@ -37,6 +37,9 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,spring,docker,rabbitmq,git,github,java,maven,matlab,githubactions,linux,mysql,redis,postgres,nginx,kafka,idea)](https://skillicons.dev)
+<div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,spring,docker,rabbitmq,git,github,java,maven,matlab,githubactions,linux,mysql,redis,postgres,nginx,kafka,idea)](https://skillicons.dev)
+</div>
+
 
 ###
