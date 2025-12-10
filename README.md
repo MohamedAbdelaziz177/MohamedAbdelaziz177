@@ -15,7 +15,7 @@
 
 ###
 
-<h4 align="center">Feel free to connect!</h4>
+<h4>Feel free to connect!</h4>
 
 ###
 
