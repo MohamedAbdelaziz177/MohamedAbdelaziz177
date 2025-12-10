@@ -1,4 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
+  <h2>Hey there, I'm Mohamed 👋 👋 ..</h1>
+</div>
 
 ###
 
@@ -14,10 +16,25 @@
 
 ###
 
+<h4 align="center">Feel free to connect!</h4>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-abdelaziz-1abb56232/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mohamecabdelaziz66@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,spring,docker,git,github,java,maven,matlab,githubactions,linux,mysql,redis,postgres,nginx,kafka,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,spring,docker,rabbitmq,git,github,java,maven,matlab,githubactions,linux,mysql,redis,postgres,nginx,kafka,idea)](https://skillicons.dev)
 
 ###
