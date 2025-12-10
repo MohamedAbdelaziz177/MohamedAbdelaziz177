@@ -1,9 +1,8 @@
 <div align="center">
-  <h2>Hey there, I'm Mohamed 👋 👋 ..</h1> <br><br>
+  <h2>Hey there, I'm Mohamed 👋 👋 ..</h1> 
 </div>
 
 ###
-
 <p align="left">My name is Mohamed and I'm a Software Engineeer, from Egypt ✅ </p>
 
 ###
