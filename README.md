@@ -58,7 +58,7 @@
   <!-- 4. Microservices, Messaging & Search -->
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/rabbitmq.png" width="44" height="45" alt="RabbitMQ" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-kafka/wordmark.svg" width="46" height="44" alt="Kafka" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic.svg" width="48" height="48" alt="Elasticsearch" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic.svg" width="46" height="46" alt="Elasticsearch" />
   <!-- 5. Databases & Tools (Unclassified) -->
   <img src="https://cdn.shopify.com/app-store/listing_images/f2a1a9d7b51a0f19aadfa95a5267559f/icon/CNWcysLI5f4CEAE=.png" width="50" height="48" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/mysql.png" width="44" height="44" alt="MySQL" />
