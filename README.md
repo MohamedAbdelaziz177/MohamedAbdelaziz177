@@ -39,7 +39,7 @@
 <p align="center">
   <!-- 1. Programming Languages (Java & Go first, then C, C#, MATLAB) -->
   <img src="https://static.cdnlogo.com/logos/j/8/java.svg" width="46" height="44" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/gospeak.png" width="46" height="48" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/gospeak.png" width="46" height="50" alt="Go" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/C.svg" width="44" height="42" alt="C" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CS.svg" width="44" height="42" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/matlab.png" width="46" height="45" alt="MATLAB" />
